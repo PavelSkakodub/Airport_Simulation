@@ -1,0 +1,58 @@
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Модель системы полётов.exe.config
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Модель системы полётов.exe
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Модель системы полётов.pdb
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель_системы_полётов.Properties.Resources.resources
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.exe
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.pdb
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель_системы_полётов.Form1.resources
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.AssemblyReference.cache
+D:\Модель системы полётов\obj\Debug\Модель_системы_полётов.Form1.resources
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.GenerateResource.cache
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.exe
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.pdb
+D:\Модель системы полётов\bin\Debug\Модель системы полётов.exe.config
+D:\Модель системы полётов\bin\Debug\Модель системы полётов.exe
+D:\Модель системы полётов\bin\Debug\Модель системы полётов.pdb
+D:\Модель системы полётов\bin\Debug\Классы к системе полётов.dll
+D:\Модель системы полётов\bin\Debug\Классы к системе полётов.pdb
+D:\Модель системы полётов\obj\Debug\Модель_системы_полётов.Properties.Resources.resources
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CoreCompileInputs.cache
+D:\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CopyComplete
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель_системы_полётов.InfoBaza.resources
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Database1.mdf
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Database1_log.ldf
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Костя  и  Паша\source\repos\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CopyComplete
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\bin\Debug\Database1.mdf
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\bin\Debug\Database1_log.ldf
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\bin\Debug\Модель системы полётов.exe.config
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\bin\Debug\Модель системы полётов.exe
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\bin\Debug\Модель системы полётов.pdb
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель_системы_полётов.Form1.resources
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель_системы_полётов.Properties.Resources.resources
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель_системы_полётов.InfoBaza.resources
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CopyComplete
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.exe
+C:\Users\win10\Desktop\Проекты\Модель системы полётов\obj\Debug\Модель системы полётов.pdb
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Database1.mdf
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Database1_log.ldf
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Модель системы полётов.exe.config
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Модель системы полётов.exe
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Модель системы полётов.pdb
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель_системы_полётов.Form1.resources
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель_системы_полётов.Properties.Resources.resources
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель_системы_полётов.InfoBaza.resources
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.csproj.CopyComplete
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.exe
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\obj\Debug\Модель системы полётов.pdb
+C:\Users\win10\Desktop\Проекты\Простые\Модель системы полётов\bin\Debug\Newtonsoft.Json.dll
